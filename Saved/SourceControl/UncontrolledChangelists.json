@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/ENUM_QuestStates.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/ENUM_States_Quest.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/ENUM_States_UI.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/ENUM_Types_Consequences.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/ENUM_Types_Operations.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/STRUCT_Stats_Mel.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/STRUCT_Stats_NPC.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Data/DA_GameData.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Data/DA_MASTER_GameData.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Data/DA_Character.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Narrative/GameStateManager.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/UI/UI_Manager.uasset",
+				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/UI/Widget/UI_UserWidget.uasset"
+			]
+		}
+	]
+}
