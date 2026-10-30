@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Samuel/Documents/GitHub/WhenTheDeadCall/Content/Blueprint/CoreMechanics/PC_.uasset",
+				"C:/Users/Samuel/Documents/GitHub/WhenTheDeadCall/Content/Blueprint/CoreMechanics/PC_Mel.uasset",
+				"C:/Users/Samuel/Documents/GitHub/WhenTheDeadCall/Content/Scenes/LVL_Gym_Sam.umap",
+				"C:/Users/Samuel/Documents/GitHub/WhenTheDeadCall/Content/StarterContent/Materials/M_Character_Test.uasset",
+				"C:/Users/Samuel/Documents/GitHub/WhenTheDeadCall/Content/StarterContent/Materials/PM_Character_Test.uasset",
+				"C:/Users/Samuel/Documents/GitHub/WhenTheDeadCall/Content/Blueprint/BP_Character_Mel.uasset",
 				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/ENUM_QuestStates.uasset",
 				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/ENUM_States_Quest.uasset",
 				"A:/Nikko/Documents/OpenToWork/WhenTheDeadCall/Content/Blueprint/Types/ENUM_States_UI.uasset",
